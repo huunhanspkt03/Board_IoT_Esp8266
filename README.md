@@ -5,7 +5,7 @@ The board follows the Arduino R3 DIP form factor and is used for industrial and 
 
 ## OverView 
 <p align="center">
-  <img src="assets\3D_View.png" alt="Dashboard overview" width="600" />
+  <img src="assets\3D_View.png" alt="Dashboard overview" width="700" />
 </p>
 
 ## Assembly
