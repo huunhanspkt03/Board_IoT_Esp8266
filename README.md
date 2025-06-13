@@ -11,3 +11,11 @@ The board follows the Arduino R3 DIP form factor and is used for industrial and 
 ## Assembly
 
 There is an - [ BOM and chematic (pdf file)](Schenatic_Board.pdf) to help you assemble the board.
+
+## Contributors
+
+* [**HUU-NHAN**](https://github.com/huunhanspkt03)
+
+## License
+
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
