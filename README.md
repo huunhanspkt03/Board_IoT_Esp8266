@@ -10,4 +10,4 @@ The board follows the Arduino R3 DIP form factor and is used for industrial and 
 
 ## Assembly
 
-There is an - [ BOM (Excel file)](docs\.IoT_Esp8266_ISO.xlsx) to help you assemble the board.
+There is an - [ BOM and chematic (pdf file)](Schenatic_Board.pdf) to help you assemble the board.
